@@ -1,1 +1,1 @@
-BitBean v1.0.0.0
+BitBean v1.1.0.0
